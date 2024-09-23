@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793999692902",
+    "project_id": "gymmanagement-b78e2",
+    "storage_bucket": "gymmanagement-b78e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793999692902:android:f202d2e63fa9ed00bb49a7",
+        "android_client_info": {
+          "package_name": "com.codeforany.workout_fitness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO4SzSALAghYKj8V-Bsd3AHQTEPyOM0qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
